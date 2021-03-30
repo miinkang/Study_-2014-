@@ -4,9 +4,7 @@
 매주 목요일 오후 5시 30분 ~ 7시 
 구글 밋 혹은 오프라인 모임 
 ## 1. 스터디원
-'''
-**[강민정](https://github.com/miinkang)** **[김이삭](https://github.com/IsaacTips)** **[문성은](https://github.com/vg-rlo)** **[오수민](https://github.com/Acclesia)**
-'''
+'**[강민정](https://github.com/miinkang)**' **[김이삭](https://github.com/IsaacTips)** **[문성은](https://github.com/vg-rlo)** **[오수민](https://github.com/Acclesia)**
 ## 2. 진행 방식 
 1. 스터디 날까지 각자 해당 주차 강의를 공부한다. 
 2. 강의를 들으며 공유할 부분, 질문에 대해 정리해온다.
