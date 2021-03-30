@@ -4,4 +4,6 @@
 ---
 매주 목요일 오후 5시 30분 ~ 7시 
 ## 1. 스터디원
-***[강민정](https://github.com/miinkang)***
+***
+[강민정](https://github.com/miinkang)
+***
