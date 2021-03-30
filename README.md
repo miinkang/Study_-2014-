@@ -15,7 +15,7 @@ https://github.com/IsaacTips)** **[문성은](https://github.com/vg-rlo)** **[�
 3. 스터디 다음날 자정까지 각자 공부한 내용을 문서화해 공유한다.  
 ## 3. 강의 목차
 ---
-- [확률 및 통계_이상화 교수님(2014)](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
+- [확률 및 통계_이상화 교수님(2014)](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)    
 |차수|강의 |
 |---|---|
 |1주차|[1강. 조건부확률과 Bayes정리](https://youtu.be/2ewO_6msPbA)<br>[2강. 독립사건과 확률](https://youtu.be/yr0YUoteuO8)|
@@ -28,7 +28,7 @@ https://github.com/IsaacTips)** **[문성은](https://github.com/vg-rlo)** **[�
 ---
 |차수|스터디록|민정|이삭|성은|수민|
 |---|---|---|---|---|---|
-|1주차|수정중|[블로그](https://miinkang.github.io/probability%20and%20statistics/probability_theory_statics-copy/)|-|-|[노션](https://www.notion.so/1-Bayes-2-c0f6c764d851412993a851f0357b6223)|
+|1주차|수정중|[조건부확률, 전체 확률의 법칙, 베이즈 정리]https://miinkang.github.io/probability%20and%20statistics/probability_theory_statics-copy/)|-|-|[1강. 조건부확률과 Bayes정리 & 2강. 순열, 조합, 이항정리](https://www.notion.so/1-Bayes-2-c0f6c764d851412993a851f0357b6223)|
 |2주차|
 |3주차|
 |4주차|
