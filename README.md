@@ -19,7 +19,7 @@
 |4주차|[7강. 여러가지 이산확률분포](https://youtu.be/xxOVYoVpkEM)<br>[8강. 지수분포와 어랑분포](https://youtu.be/BsQ4GgXEDWM)|
 |5주차|[9강. 정규분포](https://youtu.be/r189b67F-Do)<br>[10강. 다중변수 및 연합분포](https://youtu.be/mcZ_CSmRWgw)|
 
-## 4. 스터디 기록 및 각자 정리 문서 공유 
+## 4. 스터디 기록 및 각자 정리 문서 공유    
 |차수|스터디록|민정|이삭|성은|수민|
 |---|---|---|---|---|---|
 |1주차|수정중|[베이즈 정리](https://miinkang.github.io/probability%20and%20statistics/probability_theory_statics-copy/)|-|-|[1강. 조건부확률과 Bayes정리 & 2강. 순열, 조합, 이항정리](https://www.notion.so/1-Bayes-2-c0f6c764d851412993a851f0357b6223)|
