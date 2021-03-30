@@ -10,7 +10,8 @@
 2. 강의를 들으며 공유할 부분, 질문에 대해 정리해온다.
 3. 스터디 다음날 자정까지 각자 공부한 내용을 문서화해 공유한다.  
 ## 3. 강의 목차
-- [확률 및 통계_이상화 교수님(2014)](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)    
+- [확률 및 통계_이상화 교수님(2014)](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)       
+- 
 |차수|강의|
 |---|---|
 |1주차|[1강. 조건부확률과 Bayes정리](https://youtu.be/2ewO_6msPbA)<br>[2강. 독립사건과 확률](https://youtu.be/yr0YUoteuO8)|
