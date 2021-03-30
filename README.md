@@ -28,8 +28,8 @@ https://github.com/IsaacTips)** **[문성은](https://github.com/vg-rlo)** **[�
 ---
 |차수|스터디록|민정|이삭|성은|수민|
 |---|---|---|---|---|---|
-|1주차|수정중|[조건부확률, 전체 확률의 법칙, 베이즈 정리]https://miinkang.github.io/probability%20and%20statistics/probability_theory_statics-copy/)|-|-|[1강. 조건부확률과 Bayes정리 & 2강. 순열, 조합, 이항정리](https://www.notion.so/1-Bayes-2-c0f6c764d851412993a851f0357b6223)|
-|2주차|
+|1주차|수정중|[조건부확률, 전체 확률의 법칙, 베이즈 정리](https://miinkang.github.io/probability%20and%20statistics/probability_theory_statics-copy/)|-|-|[1강. 조건부확률과 Bayes정리 & 2강. 순열, 조합, 이항정리](https://www.notion.so/1-Bayes-2-c0f6c764d851412993a851f0357b6223)|
+|2주차|수정중|[확률변수, 이산확률변수, 연속확률변수](https://miinkang.github.io/probability%20and%20statistics/random_values/)|-|[기초확률통계 3,4강](https://www.notion.so/3-4-6d7ffabc67c743288320e21cef0ffed8)|-|[기초확률통계 5, 6강(7p~10p)](https://www.notion.so/5-6-7p-10p-42e9858aeed947b2b4d06fcd3caaff57)|-|
 |3주차|
 |4주차|
 |5주차|
