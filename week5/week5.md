@@ -8,7 +8,7 @@
 2. [표본비율의 정규화 문제](https://ko.khanacademy.org/math/statistics-probability/sampling-distributions-library/sample-proportions/e/normal-condition-sample-proportions?modal=1)
 
 
-##**연습문제 질문**   
+## **연습문제 질문**   
 2) 표본비율의 정규화 문제
   - **Q. 표본비율의 분포를 확인할 때, 성공확률(np)과 실패확률(n(1-p))을 계산해 10과 비교한다. 이때 조건 기준이 10은 지정된 수인가요?** 
 
