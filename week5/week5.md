@@ -38,6 +38,6 @@
 *이 공간에 자유롭게 정리해주세요*
 ---
 2. **파이 엑스 -> 에러펑션 유도하기**를 각자 수행해보자.   
-- 민정
+- 민정   
 ![image](https://user-images.githubusercontent.com/68461606/114536002-9dfe2d80-9c8b-11eb-987e-f51c1ab04358.png)
 
